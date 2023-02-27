@@ -12,8 +12,6 @@ Practical task at the end of the module:
 - SCSS
 - React-lazy-load-image-component (in future)
 
-![preview CoffeeShop](./preview.png)
-
 >### If you want to see the :
 >- [Template](https://www.figma.com/file/Iu4Lul87WvzdM5CXFwE4qtZ6/Coffee-shop?node-id=0%3A1&t=6azX4JyP11ZMPbsy-0)
 
