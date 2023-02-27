@@ -19,7 +19,7 @@ class Promo extends Component{
                     </div>
                     <div className="more">
                         <button className="btn_more">
-                            Mores
+                            More
                         </button>
                     </div>
                 </div>
